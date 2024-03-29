@@ -1,1 +1,8 @@
-{}
+{
+    "name": "dn/test",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": ">=8.2",
+        "another-vendor/package": "1.*"
+    }
+}
